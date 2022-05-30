@@ -3,3 +3,5 @@
 Tutorial de uso das ferramentas GIT e Github
 ## Autor 
 Hideki Ferreira
+## Playlist 
+[Iniciar tutorial](https://joseassis.com.br/cursos/gitegithub.html)
