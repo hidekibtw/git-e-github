@@ -1,4 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/hidekibtw/git-e-github)
+
+![](https://github.com/hidekibtw/git-e-github/blob/main/GITHUB.png)
 # Tutorial GIT e Github
 Tutorial de uso das ferramentas GIT e Github
 ## Autor 
